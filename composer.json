@@ -1,6 +1,6 @@
 {
     "name": "rleeson/wp-webpack-loader",
-    "description": "Webpack asset loader to switch between webpack-dev-server and production built asets",
+    "description": "Webpack asset loader for WordPress to switch between webpack-dev-server and production built assets",
     "type": "library",
     "license": "MIT",
     "authors": [
